@@ -1,4 +1,6 @@
 This is a read me 
 ADD this  kkk  in F1
 ttttttt
-kk
+in dev bracn
+
+fix bug in issu
